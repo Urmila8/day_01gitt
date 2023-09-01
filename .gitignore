@@ -3,7 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 new_env/
-my_new_folder
+my_new_folder/
 
 
 # C extensions
